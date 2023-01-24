@@ -2,7 +2,6 @@
 /classes
 /checkouts
 /reports
-/graalvm-config
 profiles.clj
 pom.xml
 pom.xml.asc
